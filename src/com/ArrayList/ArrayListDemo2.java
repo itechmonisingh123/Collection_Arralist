@@ -19,6 +19,7 @@ public class ArrayListDemo2 {
 		list.add("three");
 	    list.add("four");
 		System.out.println(list);
+		int a=10;
 		/**size() method returns number of elements present in an ArrayList.**/
 		System.out.println("the size of ArrayList:"+list.size());
 		list.trimToSize();
